@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1E3740DB-8D93-4DBC-BF84-2F863FFE17F2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datting.API.csproj">
+    <Files>
+      <File FileName="Startup.cs" Line="31" Column="24" />
+      <File FileName="Datting.API.csproj" Line="9" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Datting.API" expanded="True">
+            <Node name="Datting.API" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Datting.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
