@@ -1,30 +1,15 @@
 ﻿<Properties StartupConfiguration="{1E3740DB-8D93-4DBC-BF84-2F863FFE17F2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValuesController.cs">
-    <Files>
-      <File FileName="Startup.cs" Line="71" Column="1" />
-      <File FileName="Datting.API.csproj" />
-      <File FileName="Data/DataContext.cs" Line="13" Column="2" />
-      <File FileName="Controllers/AuthController.cs" Line="16" Column="5" />
-      <File FileName="Controllers/WeatherForecastController.cs" />
-      <File FileName="Data/AuthRepository.cs" Line="27" Column="11" />
-      <File FileName="Dtos/UserForRegisterDto.cs" Line="7" Column="14" />
-      <File FileName="Program.cs" Line="1" Column="1" />
-      <File FileName="WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="Dtos/UserForLoginDto.cs" Line="7" Column="7" />
-      <File FileName="datingpp.db" />
-      <File FileName="Controllers/ValuesController.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Datting.API" expanded="True">
             <Node name="Datting.API" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True">
-                <Node name="ValuesController.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
               <Node name="Data" expanded="True" />
               <Node name="Dtos" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
