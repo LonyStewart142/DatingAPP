@@ -1,15 +1,22 @@
 ﻿<Properties StartupConfiguration="{1E3740DB-8D93-4DBC-BF84-2F863FFE17F2}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="Controllers/AuthController.cs" Line="53" Column="16" />
+      <File FileName="Data/DataContext.cs" Line="13" Column="2" />
+      <File FileName="Data/AuthRepository.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Datting.API" expanded="True">
             <Node name="Datting.API" expanded="True">
               <Node name="Dependencies" expanded="True" />
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="ValuesController.cs" selected="True" />
+              </Node>
               <Node name="Data" expanded="True" />
               <Node name="Dtos" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -22,6 +29,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/lonymejia/DattingApp/Datting.API/Data/DataContext.cs" relfile="Data/DataContext.cs" line="9" column="1" />
+      <Breakpoint file="/Users/lonymejia/DattingApp/Datting.API/Controllers/AuthController.cs" relfile="Controllers/AuthController.cs" line="47" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
